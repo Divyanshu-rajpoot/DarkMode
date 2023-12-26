@@ -16,7 +16,7 @@ function changing(){
     time.to('#cc',{
         x:'37px',
         delay:-.5,
-        backgroundColor:'#fff'
+        backgroundColor:'#FF5733'
     })
     time.to('#circ',{
         backgroundColor:"#000",
